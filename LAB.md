@@ -13,3 +13,4 @@
 - Connect your Heroku to your git repo
   - Set it to auto deploy from master (or any named branch)
   - Optionally, set it to require CI (this will cause Heroku not to deploy without a passing travis build)
+
